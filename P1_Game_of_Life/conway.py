@@ -151,7 +151,7 @@ def main():
                 cells[coords[0] + coords[1] * size[1]] = 1
         
     # set animation update interval
-    updateInterval = 20000
+    updateInterval = 20
 
     # set patterns
     patterns = definePatterns()
